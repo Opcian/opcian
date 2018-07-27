@@ -1,0 +1,23 @@
+{
+    "name": "opcian/opcian",
+    "description": "Just a regular laravel admin package",
+    "authors": [
+        {
+            "name": "Jhenel Funtalan",
+            "email": "jhenelfuntilon@gmail.com"
+        },
+        {
+            "name": "Dennis Basan",
+            "email": "dpbasan@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Opcian\\": "src/"
+        }
+    },
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
